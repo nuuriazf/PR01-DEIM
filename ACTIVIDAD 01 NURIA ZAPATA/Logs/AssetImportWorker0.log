@@ -790,3 +790,166 @@ System memory in use after: 57.1 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1635.
 Total: 1.366200 ms (FindLiveObjects: 0.115100 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.187600 ms  DeleteObjects: 0.034300 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000470 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.654 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1638.
+Total: 1.431200 ms (FindLiveObjects: 0.144800 ms CreateObjectMapping: 0.034000 ms MarkObjects: 1.204300 ms  DeleteObjects: 0.047500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3105.500388 seconds.
+  path: Assets/Scripts/Actividades.cs
+  artifactKey: Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividades.cs using Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57eb176805a5688c2a847cf17ca338fb') in 0.003034 seconds
+  Import took 0.004635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000765 seconds.
+  path: Assets/Scripts/Actividades.cs
+  artifactKey: Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividades.cs using Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57eb176805a5688c2a847cf17ca338fb') in 0.001486 seconds
+  Import took 0.002887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.877580 seconds.
+  path: Assets/Scripts/Actividad01.cs
+  artifactKey: Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividad01.cs using Guid(36777516800728d4085a98c25b2f8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b692eec9e3e924fd84568cfe8ec61a67') in 0.004943 seconds
+  Import took 0.006614 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000427 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.656 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 3.834200 ms (FindLiveObjects: 0.320800 ms CreateObjectMapping: 0.093500 ms MarkObjects: 3.321100 ms  DeleteObjects: 0.096600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.379404 seconds.
+  path: Assets/Scripts/Actividad02.cs
+  artifactKey: Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividad02.cs using Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e314b6fe82a3494155d4d37cf0184e3') in 0.006430 seconds
+  Import took 0.008127 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.646 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 3.756000 ms (FindLiveObjects: 0.284800 ms CreateObjectMapping: 0.095400 ms MarkObjects: 3.277600 ms  DeleteObjects: 0.096100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.658 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 1.549700 ms (FindLiveObjects: 0.128500 ms CreateObjectMapping: 0.031400 ms MarkObjects: 1.351400 ms  DeleteObjects: 0.037700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.677904 seconds.
+  path: Assets/Scripts/Actividad02.cs
+  artifactKey: Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividad02.cs using Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bf560370568c5a659fdfdff4f0a31d') in 0.003158 seconds
+  Import took 0.004614 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.663 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 1.354800 ms (FindLiveObjects: 0.134200 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.143800 ms  DeleteObjects: 0.041900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2107.114278 seconds.
+  path: Assets/Scripts/Actividad02.cs
+  artifactKey: Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Actividad02.cs using Guid(50ec05655137f204ebb65b994295bfb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40bbc208ce27fa23e4d2b78047922b07') in 0.005815 seconds
+  Import took 0.007314 seconds .
+

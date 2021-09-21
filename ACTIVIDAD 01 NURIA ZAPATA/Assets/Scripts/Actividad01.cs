@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Actividades : MonoBehaviour
+public class Actividad01 : MonoBehaviour
 {
      // ejercicio 1: variables  
     [SerializeField] string nombre = "Nuria";
