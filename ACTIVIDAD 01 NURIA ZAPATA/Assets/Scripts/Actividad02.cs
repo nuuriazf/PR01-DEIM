@@ -4,31 +4,30 @@ using UnityEngine;
 
 public class Actividad02 : MonoBehaviour
 {
-    
+    int n;
+    int m;
     // Start is called before the first frame update
     void Start()
     {
-        int m = 0;
-        int n;
-        for (n = 0; n <= 10; n++)
+
+        while (n==10)
         {
-           
-            print(n);
-            if (n == 10)
-            {
-                m++;
-                print("Se han completado " + m++ + " ciclos.");
-            }
-
+          
+            int m = 0;
+            m++;
+            print("Se han completado" + m++ +" ciclos.");
         }
-
-    
-      
     }
 
     // Update is called once per frame
     void Update()
     {
-       
+        
+        for (n = 0; n <= 10; n++)
+        {
+            print(n);
+
+        }
+
     }
 }
