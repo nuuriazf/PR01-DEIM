@@ -5,17 +5,21 @@ using UnityEngine;
 public class Actividad02 : MonoBehaviour
 {
     int n;
-    int m;
+    int m= 0;
     // Start is called before the first frame update
     void Start()
     {
+        for (n = 0; n <= 10; n++)
+        {
+            print(n);
 
-        while (n==10)
+        }
+        while (m<20)
         {
           
-            int m = 0;
+            
             m++;
-            print("Se han completado" + m++ +" ciclos.");
+            print("Se han completado" + m +" ciclos.");
         }
     }
 
@@ -23,11 +27,6 @@ public class Actividad02 : MonoBehaviour
     void Update()
     {
         
-        for (n = 0; n <= 10; n++)
-        {
-            print(n);
-
-        }
-
+    
     }
 }
