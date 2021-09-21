@@ -12,9 +12,11 @@ public class Actividades : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print(numEnergy);
-         numEnergy = 20;
-        print(numEnergy);
+        int numero2 = 4;
+        int numero1 = 5;
+        int resultadooperacion = numero2 + numero1;
+        print ("El resultado de la suma es " + resultadooperacion);
+        
         
 
         
